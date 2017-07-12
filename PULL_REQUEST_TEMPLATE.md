@@ -1,3 +1,3 @@
 - [ ] Format
 - [ ] Unit tests
-- [ ] Jira tickets
+- [X] Jira tickets
